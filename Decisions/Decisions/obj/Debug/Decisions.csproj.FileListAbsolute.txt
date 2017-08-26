@@ -1,0 +1,6 @@
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Decisions\Decisions\bin\Debug\Decisions.exe.config
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Decisions\Decisions\bin\Debug\Decisions.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Decisions\Decisions\bin\Debug\Decisions.pdb
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Decisions\Decisions\obj\Debug\Decisions.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Decisions\Decisions\obj\Debug\Decisions.pdb

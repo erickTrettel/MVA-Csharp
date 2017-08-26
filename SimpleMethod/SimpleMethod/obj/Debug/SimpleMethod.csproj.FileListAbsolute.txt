@@ -1,0 +1,6 @@
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.pdb
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csprojResolveAssemblyReference.cache
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.pdb

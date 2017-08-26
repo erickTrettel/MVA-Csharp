@@ -1,0 +1,5 @@
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb

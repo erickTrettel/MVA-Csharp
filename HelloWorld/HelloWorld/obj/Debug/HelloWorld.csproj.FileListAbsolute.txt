@@ -1,0 +1,5 @@
+C:\Users\Erick\Desktop\MVA - C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Erick\Desktop\MVA - C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Erick\Desktop\MVA - C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Erick\Desktop\MVA - C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Erick\Desktop\MVA - C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

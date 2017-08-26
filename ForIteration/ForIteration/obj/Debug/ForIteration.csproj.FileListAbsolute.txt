@@ -1,0 +1,6 @@
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\ForIteration\ForIteration\obj\Debug\ForIteration.csprojResolveAssemblyReference.cache
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\ForIteration\ForIteration\obj\Debug\ForIteration.pdb

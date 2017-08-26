@@ -1,0 +1,6 @@
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csprojResolveAssemblyReference.cache
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb

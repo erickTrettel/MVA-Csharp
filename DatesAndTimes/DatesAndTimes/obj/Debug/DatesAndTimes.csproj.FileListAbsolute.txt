@@ -1,0 +1,6 @@
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csprojResolveAssemblyReference.cache
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb

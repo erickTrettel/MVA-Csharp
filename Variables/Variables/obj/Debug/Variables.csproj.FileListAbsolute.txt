@@ -1,0 +1,6 @@
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Variables\Variables\bin\Debug\Variables.exe.config
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Variables\Variables\bin\Debug\Variables.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Variables\Variables\bin\Debug\Variables.pdb
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Variables\Variables\obj\Debug\Variables.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\Variables\Variables\obj\Debug\Variables.pdb
