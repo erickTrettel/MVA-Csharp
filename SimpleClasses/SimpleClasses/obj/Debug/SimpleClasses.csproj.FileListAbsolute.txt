@@ -1,0 +1,6 @@
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA-Csharp\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe.config
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA-Csharp\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA-Csharp\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.pdb
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA-Csharp\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csprojResolveAssemblyReference.cache
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA-Csharp\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA-Csharp\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.pdb
