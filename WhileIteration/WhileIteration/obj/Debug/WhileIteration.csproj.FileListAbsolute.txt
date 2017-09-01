@@ -4,3 +4,6 @@ G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\WhileIteration\WhileIteration\bi
 G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojResolveAssemblyReference.cache
 G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
 G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA - C#\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA-Csharp\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA-Csharp\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+G:\Erick\Erick\Meus Arquivos\Cursos\C#\MVA-Csharp\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb
